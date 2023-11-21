@@ -1,0 +1,89 @@
+.header-wrapper .header {
+  background-color: #ff9800;
+  width: 187px;
+  height: 49px;
+  border: none;
+  color: white;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+/* --------home---------- */
+
+.Home .card-1 {
+  background: linear-gradient(
+      90deg,
+      rgba(13, 66, 61, 0.9) -22.84%,
+      rgba(12, 199, 181, 0.9) 138.88%
+    ),
+    linear-gradient(0deg, #e6e6e6, #e6e6e6);
+}
+
+.Home .btncard {
+  background: #f44336;
+  margin-top: 10px;
+}
+
+/* ---------programmes-------- */
+
+.programmes i {
+  font-size: 40px;
+}
+
+.programmes .card-2 p {
+  margin-left: 15px;
+  font-weight: bold;
+}
+
+.programmes .card-2 {
+  background: #009688;
+}
+
+.programmes .card-3 p {
+  font-size: 12px;
+}
+
+.programmes .card-3 .btncard {
+  background: #f44336;
+}
+
+/* formation---------------- */
+
+.formation-wrapper .card i {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+/* -------diplome--------- */
+
+.diplome-wrapper i {
+  font-size: 36px;
+}
+
+.diplome {
+  background: #f44336;
+}
+
+/* -----------coachs------- */
+
+.coach-wrapper .ronde {
+  width: 15px;
+  height: 15px;
+}
+
+/* ---------activte----- */
+
+.activites-wrapper .vec-2 {
+  background: #f44336;
+}
+
+.activites-wrapper .vector img {
+  height: 200px;
+  width: 100%;
+}
+/* -----------------partenaires----- */
+
+/* ------footer-------------------- */
+.contenu-footer {
+  background: #009688;
+}
